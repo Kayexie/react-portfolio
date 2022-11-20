@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.083f4d72.css",
+    "main.js": "/react-portfolio/static/js/main.79d6949a.js",
+    "static/media/watercolor.jpg": "/react-portfolio/static/media/watercolor.487df62821a079576f93.jpg",
+    "static/media/profile .png": "/react-portfolio/static/media/profile .362f87af596d90f96443.png",
+    "static/media/linkedin.png": "/react-portfolio/static/media/linkedin.c1efddc301e7c3869a74.png",
+    "static/media/green.jpg": "/react-portfolio/static/media/green.401d5e4d876711668eec.jpg",
+    "static/media/blue.jpg": "/react-portfolio/static/media/blue.88d3df33ea4e13897fbf.jpg",
+    "static/media/egg.jpg": "/react-portfolio/static/media/egg.fbd640eaab94cdda0f58.jpg",
+    "static/media/plain.jpg": "/react-portfolio/static/media/plain.94c999878b99b32feeba.jpg",
+    "static/media/chocolate.jpg": "/react-portfolio/static/media/chocolate.63c3706366b22975078f.jpg",
+    "static/media/puple.jpg": "/react-portfolio/static/media/puple.cd93da3fd77c832a31c1.jpg",
+    "static/media/twitter.png": "/react-portfolio/static/media/twitter.3e07df4bf5a1dae55290.png",
+    "index.html": "/react-portfolio/index.html",
+    "main.083f4d72.css.map": "/react-portfolio/static/css/main.083f4d72.css.map",
+    "main.79d6949a.js.map": "/react-portfolio/static/js/main.79d6949a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.083f4d72.css",
+    "static/js/main.79d6949a.js"
+  ]
+}
