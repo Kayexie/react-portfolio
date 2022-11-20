@@ -13,6 +13,7 @@ resume and footer.
 ## Installation
    N/A
 ## Usage
+   ![Screenshot](./src/image/screenshot.png)
    - URL of GitHub Repo: https://github.com/Kayexie/react-portfolio
    - URL of Video: https://drive.google.com/file/d/1mjAguSvkL3SUIQAqb7Fgd7hZKuZCssli/view?usp=sharing
 ## License
